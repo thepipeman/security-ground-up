@@ -1,0 +1,21 @@
+INSERT INTO user_details
+(
+  username,
+  password,
+  first_name,
+  middle_name,
+  last_name
+)
+VALUES
+('aaronrasing',
+ 'password',
+ 'Aaron',
+ 'Castillo',
+ 'Rasing'
+),
+('janeganadin',
+ 'password',
+ 'Jane',
+ 'Oliveros',
+ 'Ganadin'
+);
