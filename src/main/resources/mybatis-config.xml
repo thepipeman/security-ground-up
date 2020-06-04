@@ -9,10 +9,10 @@
     </settings>
 
     <typeAliases>
-        <package name="com.pipecrafts.bushub.managementservice"/>
+        <package name="com.pipecrafts.securitygroundup"/>
     </typeAliases>
 
     <typeHandlers>
-        <package name="com.pipecrafts.bushub.managementservice.tools.mybatis"/>
+        <package name="com.pipecrafts.securitygroundup.tools.mybatis"/>
     </typeHandlers>
 </configuration>
